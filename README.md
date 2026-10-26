@@ -75,7 +75,7 @@ I'm working toward an **entry-level Full Stack Software Engineering role**, wher
 
 ## 🤝 Connect With Me
 
-  [![github](https://www.readmecodegen.com/api/social-icon?name=github&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fsachintha-madubashana)](https://github.com/sachintha-madubashana)
+  [![github](https://www.readmecodegen.com/api/social-icon?name=github&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fsachintha-madubashana)](https://github.com)
   [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Flinkedin.com%2Fin%2Fsachintha-madubashana)](https://linkedin.com/in/sachintha-madubashana)
   [![link](https://www.readmecodegen.com/api/social-icon?name=link&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fsachintha-madubashana.github.io)](https://sachintha-madubashana.github.io)
   [![figma](https://www.readmecodegen.com/api/social-icon?name=figma&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Ffigma.com%2F%40sachinthamaduba)](https://figma.com/@sachinthamaduba)
