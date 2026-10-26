@@ -75,9 +75,9 @@ I'm working toward an **entry-level Full Stack Software Engineering role**, wher
 
 ## 🤝 Connect With Me
 
-  [![github](https://www.readmecodegen.com/api/social-icon?name=github&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fgithub.com%2F)](https://github.com)
+  [![github](https://www.readmecodegen.com/api/social-icon?name=github&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fsachintha-madubashana)](https://github.com/sachintha-madubashana)
   [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Flinkedin.com%2Fin%2Fsachintha-madubashana)](https://linkedin.com/in/sachintha-madubashana)
-  [![link](https://www.readmecodegen.com/api/social-icon?name=link&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fsachintha-madubashana.github.io)](https://sachintha-madubashana.github.io)
+  [![link](https://www.readmecodegen.com/api/social-icon?name=link&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fgithub.com/sachintha-madubashana)](https://github.com/sachintha-madubashana)
   [![figma](https://www.readmecodegen.com/api/social-icon?name=figma&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Ffigma.com%2F%40sachinthamaduba)](https://figma.com/@sachinthamaduba)
   [![youtube](https://www.readmecodegen.com/api/social-icon?name=youtube&background=%23ffffff&animation=shake&color=%23000000&link=https%3A%2F%2Fyoutube.com%2F%40sachinthadev)](https://youtube.com/@sachinthadev)
   [![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&background=%23ffffff&animation=shake&color=%23000000&link=mailto%3Asachintha.m.dev%40gmail.com)](mailto:sachintha.m.dev@gmail.com)
